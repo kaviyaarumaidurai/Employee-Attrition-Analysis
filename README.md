@@ -92,7 +92,7 @@ Using Pandas and visualization libraries:
 
 Developed an interactive dashboard featuring:
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 * Attrition Rate KPI
 
