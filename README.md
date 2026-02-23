@@ -92,6 +92,8 @@ Using Pandas and visualization libraries:
 
 Developed an interactive dashboard featuring:
 
+![Dashboard Screenshot](dashboard.png)
+
 * Attrition Rate KPI
 
 * Department attrition comparison
